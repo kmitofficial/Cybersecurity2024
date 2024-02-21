@@ -11,36 +11,43 @@
 ### Steps to run server
 1. Change to **server** directory
 
-`cd SQLi/server`
+    `cd SQLi/server`
+
 2. Before first run, install all node modules (needs to be run only once)
 
-`npm install`
+    `npm install`
+
 3. Run server
 
-`npm start`
+    `npm start`
+
 
 ### Steps to run client
 1. Change to **client** directory
 
-`cd SQL/client`
+    `cd SQL/client`
+
 2. Before first run, install all node modules (needs to be run only once)
 
-`npm install`
+    `npm install`
+
 3. Run client
 
-`npm start`
+    `npm start`
 
 ## :syringe: XSS attack + prevention
 ### Steps to run the code
 1. Change to **XSS** directory
 
-`cd XSS`
+    `cd XSS`
+
 2. Before first run, install all node modules (needs to be run only once)
 
-`npm install`
+    `npm install`
+
 3. Run the app
 
-`npm start`
+    `npm start`
 
 # Acknowledgements
 1. SQLi code reference [[link]](https://github.com/nadunchanna98/SQL-Injection-React-Nodejs-Demo)
