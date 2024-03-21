@@ -1,6 +1,6 @@
 const express = require("express");
 const fs = require("fs")
-const he = require("he")
+const he = require("html-entities")
 const app = express();
 
 const products = ["Apple"]
